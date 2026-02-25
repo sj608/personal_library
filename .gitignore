@@ -1,2 +1,4 @@
 custom_stack/build/**
 custom_linked_list/build/**
+custom_tree/build/**
+**/.vscode
